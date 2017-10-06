@@ -12,7 +12,7 @@
         android:fullBackupContent="@xml/backup_descriptor" >
 
 
-        <activity android:name=".BarberPoleList" >
+        <activity android:name="com.xyz.BarberPoleList" >
        <intent-filter>
             <action android:name="android.intent.action.MAIN" />
             <category android:name="android.intent.category.LAUNCHER" />
